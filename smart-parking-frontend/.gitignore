@@ -1,0 +1,16 @@
+`smart-parking-backend/.gitignore`:
+```
+node_modules/
+.env
+*.log
+.DS_Store
+```
+
+**For Frontend:**
+
+Create `smart-parking-frontend/.gitignore`:
+```
+node_modules/
+build/
+.env
+.DS_Store
