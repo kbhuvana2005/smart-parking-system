@@ -107,10 +107,3 @@ smart-parking-system/
     └── public/
 ```
 
-## Author
-
-Your Name - College Project
-
-## License
-
-This project is created for educational purposes.
